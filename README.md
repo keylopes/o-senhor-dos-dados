@@ -10,7 +10,7 @@
 
 Um podcast criado com auxilio de Inteligencia Artificial, onde exploraremos o incrível incrível universo da linguagem SQL de uma maneira leve, divertida e simples para quem está apenas começando. 
 
-🎙️ [Clique aqui para ouvir o Podcast](https://audiomack.com/anagalli/song/menos-baguna-mais-paz-ep1-iniciando-sua-jornada-minimalista)
+🎙️ Ouça o Podcast: [Output/Podcast_editado.MP3](https://github.com/keylopes/o-senhor-dos-dados/blob/main/Output/Podcast_editado.MP3)
 
 # 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chatgpt.com/) para geração de conteúdo
