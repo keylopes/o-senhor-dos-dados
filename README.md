@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+    src="./assets/frodo_SQL.jpg"
+    width="300"
+/>
+</p>
+
+
 # Podcast O Senhor dos Dados: A Jornada SQL
 
 Um podcast criado com auxilio de Inteligencia Artificial, onde exploraremos o incrível incrível universo da linguagem SQL de uma maneira leve, divertida e simples para quem está apenas começando. 
