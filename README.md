@@ -22,3 +22,13 @@ Um podcast criado com auxilio de Inteligencia Artificial, onde exploraremos o in
 | Ação | Prompt |
 |------|--------|
 | Criar capa | Frodo from The Lord of the Rings holding a book about SQL in one hand and the ring of power in the other|
+
+## 👨‍💻 Autoria
+
+Keylla Lopes  
+[GitHub](https://github.com/keylopes) 
+
+<img src="/keylla_P&B.png" width="80">
+---
+
+⌨️ com 💜 por [Keylla Lopes](https://github.com/keylopes)
