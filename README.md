@@ -14,7 +14,7 @@ Um podcast criado com auxilio de Inteligencia Artificial, onde exploraremos o in
 
 # 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chatgpt.com/) para geração de conteúdo
-- [Leonardo AI](https://app.leonardo.ai/)) para geração da imagem de capa.
+- [Leonardo AI](https://app.leonardo.ai/) para geração da imagem de capa.
 - [ElevenLabs](https://elevenlabs.io/app/home) para Text-To-Speech
 - [CapCut](https://www.capcut.com/pt-br/) para edição
 
